@@ -22,3 +22,10 @@ HammerJS
 (https://hammerjs.github.io/api/)
 3. Code Pan..you know..Google, Youtube, Stackoverflow, Medium, Code Pan is right hand of a developer
 (https://codepen.io/RobVermeer/pen/japZpY)
+
+# How to use this code in better way...
+1. Use this code for dating app, a dating app with marriage service, with share and chat option
+2. Create chatbot using websocket (I have one websocket example in Spring Java with Chatbot) for users
+3. Write perfect api using Python or Java where you can integrate real time data with this app
+4. Use No-SQL type database for better performance and storage
+5. Good to use AI model for recommend system, so you can say..who, how, why like which type of person
